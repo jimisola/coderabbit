@@ -8,9 +8,8 @@ account's repositories
 of the account that has no `.coderabbit.yaml` of its own. The repository
 name must stay `coderabbit`.
 
-> **Note:** central configuration for a personal account is unverified; CodeRabbit
-> documents it for organizations. If a PR run does not show "Central YAML",
-> each repository needs the full config inlined instead of `inheritance: true`.
+Verified on a PR run: CodeRabbit lists "Central YAML (inherited)" as a layer for a
+personal account.
 
 ## Defaults
 
